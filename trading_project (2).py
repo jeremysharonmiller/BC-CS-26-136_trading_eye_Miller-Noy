@@ -14,7 +14,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 
-!pip install plotly
+# !pip install plotly
 import plotly.graph_objects as go
 
 sp100 = [
